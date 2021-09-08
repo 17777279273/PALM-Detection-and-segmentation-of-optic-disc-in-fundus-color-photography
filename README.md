@@ -12,4 +12,4 @@
 ```
 ## 使用方式
 A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/2276682?contributionType=1)
-B：对项目进行fork -> star -> 运行三连。
+B：对项目进行fork -> star -> 运行三连，使用项目中的output/PLAM_model_4即可复现成绩。
