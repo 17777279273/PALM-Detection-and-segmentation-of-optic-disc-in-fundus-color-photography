@@ -12,4 +12,4 @@
 ```
 ## 使用方式
 A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/2276682?contributionType=1)
-B：此处由项目作者进行撰写使用方式。
+B：对项目进行fork -> star -> 运行三连。
